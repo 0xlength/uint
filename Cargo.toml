@@ -28,7 +28,7 @@ members = [".", "ruint-macro", "ruint-bench"]
 resolver = "2"
 
 [workspace.package]
-edition = "2024"
+edition = "2021"
 rust-version = "1.85"
 authors = ["Remco Bloemen <remco@wicked.ventures>"]
 license = "MIT"
